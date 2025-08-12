@@ -2,6 +2,15 @@
 
 A comprehensive Python project that combines web scraping and natural language processing to analyze public sentiment on any topic.
 
+
+## Demo 
+<img width="1920" height="1080" alt="Screenshot 2025-08-12 193640" src="https://github.com/user-attachments/assets/898e4da8-2573-4e8a-8d4e-e1328db0622f" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-12 193701" src="https://github.com/user-attachments/assets/441c9dcf-00c4-4633-9c15-0d27debb7ce6" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-12 193716" src="https://github.com/user-attachments/assets/54e526b1-b2d1-416d-b36d-93824535e833" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-12 193740" src="https://github.com/user-attachments/assets/c80126bd-26b8-4d9e-b014-939705068c50" />
+Final:
+<img width="1920" height="1080" alt="Screenshot 2025-08-12 193754" src="https://github.com/user-attachments/assets/8c8632ea-af7e-4afb-b9b8-f4afcafab062" />
+
 ## Features
 
 - **Web Scraping**: Fetch content from Reddit and news websites using `requests` and `BeautifulSoup`
